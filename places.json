@@ -1,0 +1,556 @@
+{
+    "places": [
+      {
+        "id": 1,
+        "name": "Sundarbans",
+        "picture": "sundarbans.jpg",
+        "description": "The Sundarbans, the largest mangrove forest in the world, is a UNESCO World Heritage Site and a natural wonder of Bangladesh. It's a unique ecosystem where the land meets the sea, known for its dense mangrove forests, diverse wildlife, and the famous Royal Bengal Tiger.\n\nVisitors can explore the Sundarbans through boat tours, witnessing the rich biodiversity, including various species of birds, reptiles, and the elusive tigers. It's a paradise for nature enthusiasts and wildlife photographers.",
+        "destination": "Khulna",
+        "hotels": [
+          {
+            "id": 1,
+            "name": "Sundarbans Jungle Lodge",
+            "image": "sundarbans_jungle_lodge.jpg",
+            "description": "Immerse in the wilderness at Sundarbans Jungle Lodge. Rustic cabins with river views. Restaurant, boat safaris, birdwatching. Average rating: 4.5. Cost per night: $180.",
+            "room_quality": "Rustic Cabin",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Flexible cancellation",
+            "facilities": ["Restaurant", "Boat Safaris", "Birdwatching"],
+            "ratings": {
+              "total_ratings": 300,
+              "average_rating": 4.5
+            },
+            "cost_per_night": 180,
+            "total_guests": 60,
+            "total_stays": 120
+          },
+          {
+            "id": 2,
+            "name": "Mangrove Paradise Resort",
+            "image": "mangrove_paradise.jpg",
+            "description": "Experience paradise in the midst of the mangroves at Mangrove Paradise Resort. Deluxe rooms with river views. Restaurant, kayak tours, wildlife photography. Average rating: 4.4. Cost per night: $170.",
+            "room_quality": "Deluxe",
+            "room_design": {
+              "bedrooms": 2,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Flexible cancellation",
+            "facilities": ["Restaurant", "Kayak Tours", "Wildlife Photography"],
+            "ratings": {
+              "total_ratings": 280,
+              "average_rating": 4.4
+            },
+            "cost_per_night": 170,
+            "total_guests": 56,
+            "total_stays": 112
+          },
+          {
+            "id": 3,
+            "name": "River View Retreat",
+            "image": "river_view_retreat.jpg",
+            "description": "Retreat to the tranquility of River View Retreat. Standard rooms with riverfront balconies. Restaurant, boat excursions, fishing. Average rating: 4.3. Cost per night: $160.",
+            "room_quality": "Standard",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Boat Excursions", "Fishing"],
+            "ratings": {
+              "total_ratings": 260,
+              "average_rating": 4.3
+            },
+            "cost_per_night": 160,
+            "total_guests": 52,
+            "total_stays": 104
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Sajek Valley",
+        "picture": "sajek_valley.jpg",
+        "description": "Sajek Valley, often referred to as the 'Queen of Hills' in Bangladesh, is a mesmerizing destination located in the Chittagong Hill Tracts. Nestled amidst the hills, it offers a serene escape from the hustle and bustle of city life. The valley is adorned with lush greenery, rolling hills, and pristine streams that create a captivating landscape.\n\nSajek Valley is known for its indigenous communities, providing an opportunity for cultural immersion. The indigenous people, primarily the Chakma community, add to the valley's charm with their warm hospitality and unique traditions.\n\nTo make the most of your Sajek Valley experience, consider staying at one of the following hotels:",
+        "destination": "Rangamati",
+        "hotels": [
+          {
+            "id": 11,
+            "name": "Sajek Heights Resort",
+            "image": "sajek_heights.jpg",
+            "description": "Experience the heights of comfort at Sajek Heights Resort. Deluxe rooms with panoramic valley views. Restaurant, guided hikes, cultural experiences. Average rating: 4.4. Cost per night: $120.",
+            "room_quality": "Deluxe",
+            "room_design": {
+              "bedrooms": 2,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Flexible cancellation",
+            "facilities": ["Restaurant", "Guided Hikes", "Cultural Experiences"],
+            "ratings": {
+              "total_ratings": 280,
+              "average_rating": 4.4
+            },
+            "cost_per_night": 120,
+            "total_guests": 56,
+            "total_stays": 112
+          },
+          {
+            "id": 12,
+            "name": "Paradise Beach Resort",
+            "image": "paradise_beach_resort.jpg",
+            "description": "Escape to Paradise Beach Resort for a serene and beachfront getaway in Sajek Valley. Luxury rooms with sea views. Swimming pool, spa, restaurant. Average rating: 4.5. Cost per night: $230.",
+            "room_quality": "Luxury",
+            "room_design": {
+              "bedrooms": 3,
+              "guestrooms": 2,
+              "bathrooms": 2,
+              "kitchen": true
+            },
+            "flexibility": "Flexible cancellation",
+            "facilities": ["Swimming Pool", "Spa", "Restaurant"],
+            "ratings": {
+              "total_ratings": 260,
+              "average_rating": 4.5
+            },
+            "cost_per_night": 230,
+            "total_guests": 75,
+            "total_stays": 150
+          },
+          {
+            "id": 13,
+            "name": "Seaside Retreat",
+            "image": "seaside_retreat.jpg",
+            "description": "Enjoy a peaceful retreat by the sea at Seaside Retreat in Sajek Valley. Standard rooms with sea views. Restaurant, beach access, sea view balconies. Average rating: 4.2. Cost per night: $150.",
+            "room_quality": "Standard",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Beach Access", "Sea View Balconies"],
+            "ratings": {
+              "total_ratings": 210,
+              "average_rating": 4.2
+            },
+            "cost_per_night": 150,
+            "total_guests": 40,
+            "total_stays": 80
+          },
+          {
+            "id": 14,
+            "name": "Hilltop Haven Lodge",
+            "image": "hilltop_haven.jpg",
+            "description": "Find solace at Hilltop Haven Lodge, perched atop the hills of Sajek Valley. Standard rooms with hillside views. Restaurant, guided treks, bonfires. Average rating: 4.0. Cost per night: $110.",
+            "room_quality": "Standard",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Guided Treks", "Bonfires"],
+            "ratings": {
+              "total_ratings": 180,
+              "average_rating": 4.0
+            },
+            "cost_per_night": 110,
+            "total_guests": 36,
+            "total_stays": 72
+          },
+          {
+            "id": 15,
+            "name": "Misty Meadows Cottage",
+            "image": "misty_meadows.jpg",
+            "description": "Experience the enchantment of Misty Meadows Cottage in the heart of Sajek Valley. Cozy cottages with misty valley views. Restaurant, nature walks, stargazing. Average rating: 4.3. Cost per night: $130.",
+            "room_quality": "Cottage",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Nature Walks", "Stargazing"],
+            "ratings": {
+              "total_ratings": 240,
+              "average_rating": 4.3
+            },
+            "cost_per_night": 130,
+            "total_guests": 48,
+            "total_stays": 96
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Kuakata",
+        "picture": "kuakata.jpg",
+        "description": "Kuakata, often referred to as the 'Daughter of the Sea,' is a stunning coastal town located in the Patuakhali district of Bangladesh. It's famous for its wide sandy beach where visitors can witness both sunrise and sunset over the Bay of Bengal. Kuakata offers a unique experience of enjoying the beauty of the sea from one location.\n\nApart from its natural beauty, Kuakata is also known for its cultural richness. The local Rakhain community contributes to the town's vibrant culture and heritage. Kuakata's serene atmosphere makes it a perfect destination for relaxation and introspection.\n\nTo make the most of your Kuakata experience, consider staying at one of the following hotels:",
+        "destination": "Patuakhali",
+        "hotels": [
+          {
+            "id": 16,
+            "name": "Sunset Paradise Resort",
+            "image": "sunset_paradise.jpg",
+            "description": "Discover paradise at Sunset Paradise Resort. Beachfront cottages with sea views. Restaurant, beach access, water sports. Average rating: 4.5. Cost per night: $180.",
+            "room_quality": "Cottage",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Flexible cancellation",
+            "facilities": ["Restaurant", "Beach Access", "Water Sports"],
+            "ratings": {
+              "total_ratings": 320,
+              "average_rating": 4.5
+            },
+            "cost_per_night": 180,
+            "total_guests": 64,
+            "total_stays": 128
+          },
+          {
+            "id": 17,
+            "name": "Oceanic View Hotel",
+            "image": "oceanic_view.jpg",
+            "description": "Enjoy oceanic views at Oceanic View Hotel. Deluxe rooms with balcony. Restaurant, beachfront location, dolphin watching. Average rating: 4.4. Cost per night: $160.",
+            "room_quality": "Deluxe",
+            "room_design": {
+              "bedrooms": 2,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Flexible cancellation",
+            "facilities": ["Restaurant", "Beachfront Location", "Dolphin Watching"],
+            "ratings": {
+              "total_ratings": 280,
+              "average_rating": 4.4
+            },
+            "cost_per_night": 160,
+            "total_guests": 56,
+            "total_stays": 112
+          },
+          {
+            "id": 18,
+            "name": "Golden Sands Resort",
+            "image": "golden_sands.jpg",
+            "description": "Experience golden sands at Golden Sands Resort. Standard rooms with beach access. Restaurant, beachside bonfires, cultural shows. Average rating: 4.3. Cost per night: $140.",
+            "room_quality": "Standard",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Beach Access", "Cultural Shows"],
+            "ratings": {
+              "total_ratings": 240,
+              "average_rating": 4.3
+            },
+            "cost_per_night": 140,
+            "total_guests": 48,
+            "total_stays": 96
+          },
+          {
+            "id": 19,
+            "name": "Beach Haven Lodge",
+            "image": "beach_haven.jpg",
+            "description": "Find solace at Beach Haven Lodge. Cozy cottages with sea views. Restaurant, beach access, nature walks. Average rating: 4.2. Cost per night: $130.",
+            "room_quality": "Cottage",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Beach Access", "Nature Walks"],
+            "ratings": {
+              "total_ratings": 220,
+              "average_rating": 4.2
+            },
+            "cost_per_night": 130,
+            "total_guests": 44,
+            "total_stays": 88
+          },
+          {
+            "id": 20,
+            "name": "Coastal Retreat Hotel",
+            "image": "coastal_retreat.jpg",
+            "description": "Retreat to Coastal Retreat Hotel. Standard rooms with coastal views. Restaurant, beachfront location, fishing trips. Average rating: 4.1. Cost per night: $120.",
+            "room_quality": "Standard",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Beachfront Location", "Fishing Trips"],
+            "ratings": {
+              "total_ratings": 200,
+              "average_rating": 4.1
+            },
+            "cost_per_night": 120,
+            "total_guests": 40,
+            "total_stays": 80
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Srimangal",
+        "picture": "srimangal.jpg",
+        "description": "Srimangal, known as the 'Tea Capital of Bangladesh,' is a picturesque town located in the northeastern part of the country. It's renowned for its lush tea gardens, serene landscapes, and diverse wildlife. Srimangal offers a tranquil escape for nature lovers and tea enthusiasts.\n\nOne of the main attractions of Srimangal is its tea estates. You can take guided tours to explore the tea gardens, witness the tea-making process, and even taste some of the finest teas.\n\nTo make the most of your Srimangal experience, consider staying at one of the following hotels:",
+        "destination": "Moulvibazar",
+        "hotels": [
+          {
+            "id": 21,
+            "name": "Tea Garden Retreat",
+            "image": "tea_garden_retreat.jpg",
+            "description": "Escape to Tea Garden Retreat amidst Srimangal's tea gardens. Deluxe rooms with garden views. Restaurant, tea garden tours, birdwatching. Average rating: 4.6. Cost per night: $140.",
+            "room_quality": "Deluxe",
+            "room_design": {
+              "bedrooms": 2,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Flexible cancellation",
+            "facilities": ["Restaurant", "Tea Garden Tours", "Birdwatching"],
+            "ratings": {
+              "total_ratings": 350,
+              "average_rating": 4.6
+            },
+            "cost_per_night": 140,
+            "total_guests": 70,
+            "total_stays": 140
+          },
+          {
+            "id": 22,
+            "name": "Green Leaf Hotel",
+            "image": "green_leaf.jpg",
+            "description": "Experience nature's embrace at Green Leaf Hotel. Standard rooms with garden views. Restaurant, tea garden walks, wildlife safaris. Average rating: 4.3. Cost per night: $110.",
+            "room_quality": "Standard",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Tea Garden Walks", "Wildlife Safaris"],
+            "ratings": {
+              "total_ratings": 280,
+              "average_rating": 4.3
+            },
+            "cost_per_night": 110,
+            "total_guests": 56,
+            "total_stays": 112
+          },
+          {
+            "id": 23,
+            "name": "Jungle Retreat",
+            "image": "jungle_retreat.jpg",
+            "description": "Immerse in the jungle experience at Jungle Retreat in Srimangal. Rustic cabins with forest views. Restaurant, jungle treks, bonfires. Average rating: 4.2. Cost per night: $120.",
+            "room_quality": "Rustic Cabin",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Jungle Treks", "Bonfires"],
+            "ratings": {
+              "total_ratings": 240,
+              "average_rating": 4.2
+            },
+            "cost_per_night": 120,
+            "total_guests": 48,
+            "total_stays": 96
+          },
+          {
+            "id": 24,
+            "name": "Tea Leaf Lodge",
+            "image": "tea_leaf_lodge.jpg",
+            "description": "Stay amidst the tea plantations at Tea Leaf Lodge. Standard rooms with tea garden views. Restaurant, tea garden tours, cultural shows. Average rating: 4.1. Cost per night: $100.",
+            "room_quality": "Standard",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Tea Garden Tours", "Cultural Shows"],
+            "ratings": {
+              "total_ratings": 200,
+              "average_rating": 4.1
+            },
+            "cost_per_night": 100,
+            "total_guests": 40,
+            "total_stays": 80
+          },
+          {
+            "id": 25,
+            "name": "Bungalow Bliss",
+            "image": "bungalow_bliss.jpg",
+            "description": "Find bliss in Srimangal's tea bungalows at Bungalow Bliss. Standard bungalows with tea garden views. Restaurant, tea tasting, bicycle rentals. Average rating: 4.0. Cost per night: $90.",
+            "room_quality": "Standard Bungalow",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Tea Tasting", "Bicycle Rentals"],
+            "ratings": {
+              "total_ratings": 160,
+              "average_rating": 4.0
+            },
+            "cost_per_night": 90,
+            "total_guests": 32,
+            "total_stays": 64
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Cox's Bazar",
+        "picture": "coxs_bazar.jpg",
+        "description": "Cox's Bazar, known for having the world's longest natural sea beach, is a prominent coastal city in Bangladesh. It's a popular tourist destination that offers a perfect blend of natural beauty and vibrant culture. The long sandy beach stretches for miles, providing an ideal setting for beach lovers, sunsets, and water sports enthusiasts.\n\nBesides its stunning beach, Cox's Bazar is famous for its vibrant seafood culture. You can savor delicious seafood dishes at local eateries.\n\nTo make the most of your Cox's Bazar experience, consider staying at one of the following hotels:",
+        "destination": "Cox's Bazar",
+        "hotels": [
+          {
+            "id": 26,
+            "name": "Seafront Deluxe Resort",
+            "image": "seafront_deluxe.jpg",
+            "description": "Indulge in luxury at Seafront Deluxe Resort in Cox's Bazar. Deluxe rooms with sea views. Restaurant, private beach, water sports. Average rating: 4.6. Cost per night: $250.",
+            "room_quality": "Deluxe",
+            "room_design": {
+              "bedrooms": 2,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Flexible cancellation",
+            "facilities": ["Restaurant", "Private Beach", "Water Sports"],
+            "ratings": {
+              "total_ratings": 400,
+              "average_rating": 4.6
+            },
+            "cost_per_night": 250,
+            "total_guests": 80,
+            "total_stays": 160
+          },
+          {
+            "id": 27,
+            "name": "Coral Paradise Hotel",
+            "image": "coral_paradise.jpg",
+            "description": "Discover paradise at Coral Paradise Hotel. Standard rooms with beach views. Restaurant, beach access, snorkeling. Average rating: 4.4. Cost per night: $180.",
+            "room_quality": "Standard",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Flexible cancellation",
+            "facilities": ["Restaurant", "Beach Access", "Snorkeling"],
+            "ratings": {
+              "total_ratings": 320,
+              "average_rating": 4.4
+            },
+            "cost_per_night": 180,
+            "total_guests": 64,
+            "total_stays": 128
+          },
+          {
+            "id": 28,
+            "name": "Golden Sands Beach Resort",
+            "image": "golden_sands.jpg",
+            "description": "Experience luxury at Golden Sands Beach Resort. Beachfront villas with ocean views. Restaurant, spa, beach activities. Average rating: 4.5. Cost per night: $280.",
+            "room_quality": "Villa",
+            "room_design": {
+              "bedrooms": 2,
+              "guestrooms": 1,
+              "bathrooms": 2,
+              "kitchen": true
+            },
+            "flexibility": "Flexible cancellation",
+            "facilities": ["Restaurant", "Spa", "Beach Activities"],
+            "ratings": {
+              "total_ratings": 360,
+              "average_rating": 4.5
+            },
+            "cost_per_night": 280,
+            "total_guests": 72,
+            "total_stays": 144
+          },
+          {
+            "id": 29,
+            "name": "Beachside Retreat Hotel",
+            "image": "beachside_retreat.jpg",
+            "description": "Find serenity at Beachside Retreat Hotel. Standard rooms with beach access. Restaurant, beachside lounges, beach games. Average rating: 4.3. Cost per night: $150.",
+            "room_quality": "Standard",
+            "room_design": {
+              "bedrooms": 1,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Beachside Lounges", "Beach Games"],
+            "ratings": {
+              "total_ratings": 280,
+              "average_rating": 4.3
+            },
+            "cost_per_night": 150,
+            "total_guests": 56,
+            "total_stays": 112
+          },
+          {
+            "id": 30,
+            "name": "Aqua Bay Resort",
+            "image": "aqua_bay.jpg",
+            "description": "Experience tranquility at Aqua Bay Resort. Beachfront rooms with sea views. Restaurant, beach access, boat tours. Average rating: 4.2. Cost per night: $200.",
+            "room_quality": "Deluxe",
+            "room_design": {
+              "bedrooms": 2,
+              "guestrooms": 1,
+              "bathrooms": 1,
+              "kitchen": false
+            },
+            "flexibility": "Moderate cancellation",
+            "facilities": ["Restaurant", "Beach Access", "Boat Tours"],
+            "ratings": {
+              "total_ratings": 320,
+              "average_rating": 4.2
+            },
+            "cost_per_night": 200,
+            "total_guests": 64,
+            "total_stays": 128
+          }
+        ]
+      }
+    ]
+  }
+  
