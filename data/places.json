@@ -9,7 +9,7 @@
       {
         "id": 1,
         "name": "Sundarbans Jungle Lodge",
-        "image": "sundarbans_jungle_lodge.jpg",
+        "image": "https://th.bing.com/th/id/OIP.5eZDNlFQZpzS84RN4DNCsAHaE8?pid=ImgDet&rs=1",
         "description": "Immerse in the wilderness at Sundarbans Jungle Lodge. Rustic cabins with river views. Restaurant, boat safaris, birdwatching. Average rating: 4.5. Cost per night: $180.",
         "room_quality": "Rustic Cabin",
         "room_design": {
@@ -35,7 +35,7 @@
       {
         "id": 2,
         "name": "Mangrove Paradise Resort",
-        "image": "mangrove_paradise.jpg",
+        "image": "https://th.bing.com/th/id/OIP.ghZkj9hi7EbBmGfabjT3FAHaE8?pid=ImgDet&rs=1",
         "description": "Experience paradise in the midst of the mangroves at Mangrove Paradise Resort. Deluxe rooms with river views. Restaurant, kayak tours, wildlife photography. Average rating: 4.4. Cost per night: $170.",
         "room_quality": "Deluxe",
         "room_design": {
@@ -61,7 +61,7 @@
       {
         "id": 3,
         "name": "River View Retreat",
-        "image": "river_view_retreat.jpg",
+        "image": "https://th.bing.com/th/id/OIP.WS2BkmMLV-Jt-CEW9XeVhQHaE8?w=283&h=189&c=7&r=0&o=5&pid=1.7",
         "description": "Retreat to the tranquility of River View Retreat. Standard rooms with riverfront balconies. Restaurant, boat excursions, fishing. Average rating: 4.3. Cost per night: $160.",
         "room_quality": "Standard",
         "room_design": {
@@ -96,7 +96,7 @@
       {
         "id": 11,
         "name": "Sajek Heights Resort",
-        "image": "sajek_heights.jpg",
+        "image": "https://th.bing.com/th/id/OIP.9TBZYUNEipG4sPv2AMb4yAHaE8?pid=ImgDet&rs=1",
         "description": "Experience the heights of comfort at Sajek Heights Resort. Deluxe rooms with panoramic valley views. Restaurant, guided hikes, cultural experiences. Average rating: 4.4. Cost per night: $120.",
         "room_quality": "Deluxe",
         "room_design": {
@@ -122,7 +122,7 @@
       {
         "id": 12,
         "name": "Paradise Beach Resort",
-        "image": "paradise_beach_resort.jpg",
+        "image": "https://th.bing.com/th/id/OIP.nD-c2d5N742K1kOTbJMlNgAAAA?w=257&h=180&c=7&r=0&o=5&pid=1.7",
         "description": "Escape to Paradise Beach Resort for a serene and beachfront getaway in Sajek Valley. Luxury rooms with sea views. Swimming pool, spa, restaurant. Average rating: 4.5. Cost per night: $230.",
         "room_quality": "Luxury",
         "room_design": {
@@ -148,7 +148,7 @@
       {
         "id": 13,
         "name": "Seaside Retreat",
-        "image": "seaside_retreat.jpg",
+        "image": "https://th.bing.com/th/id/OIP.pFLnWUAdTxJBZpyOdVzqgAHaE7?w=251&h=180&c=7&r=0&o=5&pid=1.7",
         "description": "Enjoy a peaceful retreat by the sea at Seaside Retreat in Sajek Valley. Standard rooms with sea views. Restaurant, beach access, sea view balconies. Average rating: 4.2. Cost per night: $150.",
         "room_quality": "Standard",
         "room_design": {
@@ -174,7 +174,7 @@
       {
         "id": 14,
         "name": "Hilltop Haven Lodge",
-        "image": "hilltop_haven.jpg",
+        "image": "https://th.bing.com/th/id/OIP.cNMrJO0pIv5s2pjrfp1apQHaE8?w=249&h=180&c=7&r=0&o=5&pid=1.7",
         "description": "Find solace at Hilltop Haven Lodge, perched atop the hills of Sajek Valley. Standard rooms with hillside views. Restaurant, guided treks, bonfires. Average rating: 4.0. Cost per night: $110.",
         "room_quality": "Standard",
         "room_design": {
@@ -200,7 +200,7 @@
       {
         "id": 15,
         "name": "Misty Meadows Cottage",
-        "image": "misty_meadows.jpg",
+        "image": "https://th.bing.com/th/id/OIP.wqv5ZGhy3-jfe3m50fvc1AHaE6?w=232&h=180&c=7&r=0&o=5&pid=1.7",
         "description": "Experience the enchantment of Misty Meadows Cottage in the heart of Sajek Valley. Cozy cottages with misty valley views. Restaurant, nature walks, stargazing. Average rating: 4.3. Cost per night: $130.",
         "room_quality": "Cottage",
         "room_design": {
@@ -235,7 +235,7 @@
       {
         "id": 16,
         "name": "Sunset Paradise Resort",
-        "image": "sunset_paradise.jpg",
+        "image": "https://th.bing.com/th/id/R.b6866be4de04d0e47ea62d8dd21def0a?rik=ktvsif0AS1y%2b1Q&riu=http%3a%2f%2fhomemydesign.com%2fwp-content%2fuploads%2f2014%2f07%2fexotic-bedroom-with-beach-view-in-Naka-Phuket-Resort-Paradise-Thailand.jpg&ehk=x%2fzIRwwpZSmQrBe1EeYtfaLRGcez3MpLl0jBxrLdHII%3d&risl=&pid=ImgRaw&r=0",
         "description": "Discover paradise at Sunset Paradise Resort. Beachfront cottages with sea views. Restaurant, beach access, water sports. Average rating: 4.5. Cost per night: $180.",
         "room_quality": "Cottage",
         "room_design": {
@@ -261,7 +261,7 @@
       {
         "id": 17,
         "name": "Oceanic View Hotel",
-        "image": "oceanic_view.jpg",
+        "image": "https://th.bing.com/th/id/OIP.G48yIC-kFK8H3sxJ0oT5mQAAAA?w=250&h=180&c=7&r=0&o=5&pid=1.7",
         "description": "Enjoy oceanic views at Oceanic View Hotel. Deluxe rooms with balcony. Restaurant, beachfront location, dolphin watching. Average rating: 4.4. Cost per night: $160.",
         "room_quality": "Deluxe",
         "room_design": {
@@ -287,7 +287,7 @@
       {
         "id": 18,
         "name": "Golden Sands Resort",
-        "image": "golden_sands.jpg",
+        "image": "https://th.bing.com/th/id/OIP.F64mij5BWiIUe22KY2pgsgHaFM?w=289&h=203&c=7&r=0&o=5&pid=1.7",
         "description": "Experience golden sands at Golden Sands Resort. Standard rooms with beach access. Restaurant, beachside bonfires, cultural shows. Average rating: 4.3. Cost per night: $140.",
         "room_quality": "Standard",
         "room_design": {
@@ -313,7 +313,7 @@
       {
         "id": 19,
         "name": "Beach Haven Lodge",
-        "image": "beach_haven.jpg",
+        "image": "https://th.bing.com/th/id/OIP.1SXx_SJX3FubnLskEQLrLgHaE7?w=285&h=187&c=7&r=0&o=5&pid=1.7",
         "description": "Find solace at Beach Haven Lodge. Cozy cottages with sea views. Restaurant, beach access, nature walks. Average rating: 4.2. Cost per night: $130.",
         "room_quality": "Cottage",
         "room_design": {
@@ -339,7 +339,7 @@
       {
         "id": 20,
         "name": "Coastal Retreat Hotel",
-        "image": "coastal_retreat.jpg",
+        "image": "https://th.bing.com/th/id/OIP.RDXs_i4CmusoQEN4OW9mEQAAAA?w=246&h=179&c=7&r=0&o=5&pid=1.7",
         "description": "Retreat to Coastal Retreat Hotel. Standard rooms with coastal views. Restaurant, beachfront location, fishing trips. Average rating: 4.1. Cost per night: $120.",
         "room_quality": "Standard",
         "room_design": {
@@ -374,7 +374,7 @@
       {
         "id": 21,
         "name": "Tea Garden Retreat",
-        "image": "tea_garden_retreat.jpg",
+        "image": "https://th.bing.com/th/id/OIP.mhxEyxbeOnuJToj6jclyVAHaFj?w=251&h=189&c=7&r=0&o=5&pid=1.7",
         "description": "Escape to Tea Garden Retreat amidst Srimangal's tea gardens. Deluxe rooms with garden views. Restaurant, tea garden tours, birdwatching. Average rating: 4.6. Cost per night: $140.",
         "room_quality": "Deluxe",
         "room_design": {
@@ -400,7 +400,7 @@
       {
         "id": 22,
         "name": "Green Leaf Hotel",
-        "image": "green_leaf.jpg",
+        "image": "https://th.bing.com/th/id/OIP.NKmX27na2wMxyXlgoTJLDQHaE6?w=258&h=180&c=7&r=0&o=5&pid=1.7",
         "description": "Experience nature's embrace at Green Leaf Hotel. Standard rooms with garden views. Restaurant, tea garden walks, wildlife safaris. Average rating: 4.3. Cost per night: $110.",
         "room_quality": "Standard",
         "room_design": {
@@ -426,7 +426,7 @@
       {
         "id": 23,
         "name": "Jungle Retreat",
-        "image": "jungle_retreat.jpg",
+        "image": "https://th.bing.com/th/id/OIP.VnBkP1-ZApmKd4s9oURt2wHaEK?w=262&h=180&c=7&r=0&o=5&pid=1.7",
         "description": "Immerse in the jungle experience at Jungle Retreat in Srimangal. Rustic cabins with forest views. Restaurant, jungle treks, bonfires. Average rating: 4.2. Cost per night: $120.",
         "room_quality": "Rustic Cabin",
         "room_design": {
@@ -452,7 +452,7 @@
       {
         "id": 24,
         "name": "Tea Leaf Lodge",
-        "image": "tea_leaf_lodge.jpg",
+        "image": "https://th.bing.com/th/id/OIP.oGI9c_oisZNwz_EiOcX5LQHaE8?w=273&h=182&c=7&r=0&o=5&pid=1.7",
         "description": "Stay amidst the tea plantations at Tea Leaf Lodge. Standard rooms with tea garden views. Restaurant, tea garden tours, cultural shows. Average rating: 4.1. Cost per night: $100.",
         "room_quality": "Standard",
         "room_design": {
@@ -478,7 +478,7 @@
       {
         "id": 25,
         "name": "Bungalow Bliss",
-        "image": "bungalow_bliss.jpg",
+        "image": "https://th.bing.com/th/id/OIP.nr92fZ87PER4VFtRUPQLHwHaE8?w=237&h=180&c=7&r=0&o=5&pid=1.7",
         "description": "Find bliss in Srimangal's tea bungalows at Bungalow Bliss. Standard bungalows with tea garden views. Restaurant, tea tasting, bicycle rentals. Average rating: 4.0. Cost per night: $90.",
         "room_quality": "Standard Bungalow",
         "room_design": {
@@ -513,7 +513,7 @@
       {
         "id": 26,
         "name": "Seafront Deluxe Resort",
-        "image": "seafront_deluxe.jpg",
+        "image": "https://th.bing.com/th/id/OIP.rAV_gYHYS7C_RbDgTzKVbwHaEo?w=271&h=180&c=7&r=0&o=5&pid=1.7",
         "description": "Indulge in luxury at Seafront Deluxe Resort in Cox's Bazar. Deluxe rooms with sea views. Restaurant, private beach, water sports. Average rating: 4.6. Cost per night: $250.",
         "room_quality": "Deluxe",
         "room_design": {
@@ -539,7 +539,7 @@
       {
         "id": 27,
         "name": "Coral Paradise Hotel",
-        "image": "coral_paradise.jpg",
+        "image": "https://th.bing.com/th/id/R.1440c04b8c37537dec8cae15254275cd?rik=0rAHoPcrsHGS4Q&pid=ImgRaw&r=0",
         "description": "Discover paradise at Coral Paradise Hotel. Standard rooms with beach views. Restaurant, beach access, snorkeling. Average rating: 4.4. Cost per night: $180.",
         "room_quality": "Standard",
         "room_design": {
@@ -565,7 +565,7 @@
       {
         "id": 28,
         "name": "Golden Sands Beach Resort",
-        "image": "golden_sands.jpg",
+        "image": "https://www.digsdigs.com/photos/2013/06/in-this-bedroom-an-underwtar-decor-is-definitely-taken-to-the-next-level-775x517.jpg",
         "description": "Experience luxury at Golden Sands Beach Resort. Beachfront villas with ocean views. Restaurant, spa, beach activities. Average rating: 4.5. Cost per night: $280.",
         "room_quality": "Villa",
         "room_design": {
@@ -591,7 +591,7 @@
       {
         "id": 29,
         "name": "Beachside Retreat Hotel",
-        "image": "beachside_retreat.jpg",
+        "image": "https://th.bing.com/th/id/R.d4a72b06318741ea69bfbbc8aa691ac7?rik=5H%2b40wq0%2fPqOaA&riu=http%3a%2f%2fhomemydesign.com%2fwp-content%2fuploads%2f2014%2f07%2fbeach-house-bedroom-with-ocean-view.jpg&ehk=15N6aFoZLHUrHH4zsBPgkSEzgNL6UDj1gYBtUDaXU2w%3d&risl=&pid=ImgRaw&r=0",
         "description": "Find serenity at Beachside Retreat Hotel. Standard rooms with beach access. Restaurant, beachside lounges, beach games. Average rating: 4.3. Cost per night: $150.",
         "room_quality": "Standard",
         "room_design": {
@@ -617,7 +617,7 @@
       {
         "id": 30,
         "name": "Aqua Bay Resort",
-        "image": "aqua_bay.jpg",
+        "image": "https://th.bing.com/th/id/R.5d6821aa36c2b5a06728b5b381f19688?rik=VUX7cc5WP58GCA&riu=http%3a%2f%2flonguinhosgoa.com%2fwp-content%2fuploads%2f2018%2f12%2fBeach-View-from-Luxury-Sea-View-Room.jpg&ehk=%2bVKXggOUPGoMcD7Jbj9T9Aof0amjE3NvqeNn6noC03g%3d&risl=&pid=ImgRaw&r=0",
         "description": "Experience tranquility at Aqua Bay Resort. Beachfront rooms with sea views. Restaurant, beach access, boat tours. Average rating: 4.2. Cost per night: $200.",
         "room_quality": "Deluxe",
         "room_design": {
