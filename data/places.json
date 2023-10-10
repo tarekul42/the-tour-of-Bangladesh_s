@@ -5,6 +5,8 @@
     "picture": "https://www.adotrip.com/public/images/areas/5f0ef1def25f8-Sundarbans_Place_to_visit.jpg",
     "description": "The Sundarbans, the largest mangrove forest in the world, is a UNESCO World Heritage Site and a natural wonder of Bangladesh. It's a unique ecosystem where the land meets the sea, known for its dense mangrove forests, diverse wildlife, and the famous Royal Bengal Tiger.\n\nVisitors can explore the Sundarbans through boat tours, witnessing the rich biodiversity, including various species of birds, reptiles, and the elusive tigers. It's a paradise for nature enthusiasts and wildlife photographers.",
     "destination": "Khulna",
+    "latitude": 22.0419,
+    "longitude": 89.5615,
     "hotels": [
       {
         "id": 1,
@@ -14,7 +16,7 @@
         "room_quality": "Rustic Cabin",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 2,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -40,7 +42,7 @@
         "room_quality": "Deluxe",
         "room_design": {
           "bedrooms": 2,
-          "guestrooms": 1,
+          "guests": 5,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -66,7 +68,7 @@
         "room_quality": "Standard",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 3,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -92,6 +94,8 @@
     "picture": "https://cdn.wallpapersafari.com/42/4/4oOzlS.jpg",
     "description": "Sajek Valley, often referred to as the 'Queen of Hills' in Bangladesh, is a mesmerizing destination located in the Chittagong Hill Tracts. Nestled amidst the hills, it offers a serene escape from the hustle and bustle of city life. The valley is adorned with lush greenery, rolling hills, and pristine streams that create a captivating landscape.\n\nSajek Valley is known for its indigenous communities, providing an opportunity for cultural immersion. The indigenous people, primarily the Chakma community, add to the valley's charm with their warm hospitality and unique traditions.\n\nTo make the most of your Sajek Valley experience, consider staying at one of the following hotels:",
     "destination": "Rangamati",
+    "latitude": 23.3804,
+    "longitude": 92.2937,
     "hotels": [
       {
         "id": 11,
@@ -101,7 +105,7 @@
         "room_quality": "Deluxe",
         "room_design": {
           "bedrooms": 2,
-          "guestrooms": 1,
+          "guests": 6,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -127,7 +131,7 @@
         "room_quality": "Luxury",
         "room_design": {
           "bedrooms": 3,
-          "guestrooms": 2,
+          "guests": 10,
           "bathrooms": 2,
           "kitchen": true
         },
@@ -153,7 +157,7 @@
         "room_quality": "Standard",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 4,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -179,7 +183,7 @@
         "room_quality": "Standard",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 3,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -205,7 +209,7 @@
         "room_quality": "Cottage",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 3,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -231,6 +235,8 @@
     "picture": "https://www.travelmate.com.bd/wp-content/uploads/2020/08/Sunrise-in-Kuakata.jpg",
     "description": "Kuakata, often referred to as the 'Daughter of the Sea,' is a stunning coastal town located in the Patuakhali district of Bangladesh. It's famous for its wide sandy beach where visitors can witness both sunrise and sunset over the Bay of Bengal. Kuakata offers a unique experience of enjoying the beauty of the sea from one location.\n\nApart from its natural beauty, Kuakata is also known for its cultural richness. The local Rakhain community contributes to the town's vibrant culture and heritage. Kuakata's serene atmosphere makes it a perfect destination for relaxation and introspection.\n\nTo make the most of your Kuakata experience, consider staying at one of the following hotels:",
     "destination": "Patuakhali",
+    "latitude": 21.8269,
+    "longitude": 90.1291,
     "hotels": [
       {
         "id": 16,
@@ -240,7 +246,7 @@
         "room_quality": "Cottage",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 2,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -266,7 +272,7 @@
         "room_quality": "Deluxe",
         "room_design": {
           "bedrooms": 2,
-          "guestrooms": 1,
+          "guests": 4,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -292,7 +298,7 @@
         "room_quality": "Standard",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 3,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -318,7 +324,7 @@
         "room_quality": "Cottage",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 4,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -344,7 +350,7 @@
         "room_quality": "Standard",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 2,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -370,6 +376,8 @@
     "picture": "https://1.bp.blogspot.com/-4IXCkDyufM4/YQ2GDgz7ZyI/AAAAAAAAAFc/C_uLGEj7p3UUPx9ar7XT4oIuBTShssXjQCLcBGAsYHQ/s801/sreemangal-tea-garden.jpg",
     "description": "Srimangal, known as the 'Tea Capital of Bangladesh,' is a picturesque town located in the northeastern part of the country. It's renowned for its lush tea gardens, serene landscapes, and diverse wildlife. Srimangal offers a tranquil escape for nature lovers and tea enthusiasts.\n\nOne of the main attractions of Srimangal is its tea estates. You can take guided tours to explore the tea gardens, witness the tea-making process, and even taste some of the finest teas.\n\nTo make the most of your Srimangal experience, consider staying at one of the following hotels:",
     "destination": "Moulvibazar",
+    "latitude": 24.3133,
+    "longitude": 91.7296,
     "hotels": [
       {
         "id": 21,
@@ -379,7 +387,7 @@
         "room_quality": "Deluxe",
         "room_design": {
           "bedrooms": 2,
-          "guestrooms": 1,
+          "guests": 5,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -405,7 +413,7 @@
         "room_quality": "Standard",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 4,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -431,7 +439,7 @@
         "room_quality": "Rustic Cabin",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 3,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -457,7 +465,7 @@
         "room_quality": "Standard",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 3,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -483,7 +491,7 @@
         "room_quality": "Standard Bungalow",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 2,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -509,6 +517,8 @@
     "picture": "https://awalkintheworld.com/wp-content/uploads/2020/10/coxs-bazar-sea-beach-scaled.jpg",
     "description": "Cox's Bazar, known for having the world's longest natural sea beach, is a prominent coastal city in Bangladesh. It's a popular tourist destination that offers a perfect blend of natural beauty and vibrant culture. The long sandy beach stretches for miles, providing an ideal setting for beach lovers, sunsets, and water sports enthusiasts.\n\nBesides its stunning beach, Cox's Bazar is famous for its vibrant seafood culture. You can savor delicious seafood dishes at local eateries.\n\nTo make the most of your Cox's Bazar experience, consider staying at one of the following hotels:",
     "destination": "Cox's Bazar",
+    "latitude": 21.4272,
+    "longitude": 91.9712,
     "hotels": [
       {
         "id": 26,
@@ -518,7 +528,7 @@
         "room_quality": "Deluxe",
         "room_design": {
           "bedrooms": 2,
-          "guestrooms": 1,
+          "guests": 6,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -544,7 +554,7 @@
         "room_quality": "Standard",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 4,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -570,7 +580,7 @@
         "room_quality": "Villa",
         "room_design": {
           "bedrooms": 2,
-          "guestrooms": 1,
+          "guests": 4,
           "bathrooms": 2,
           "kitchen": true
         },
@@ -596,7 +606,7 @@
         "room_quality": "Standard",
         "room_design": {
           "bedrooms": 1,
-          "guestrooms": 1,
+          "guests": 3,
           "bathrooms": 1,
           "kitchen": false
         },
@@ -622,7 +632,7 @@
         "room_quality": "Deluxe",
         "room_design": {
           "bedrooms": 2,
-          "guestrooms": 1,
+          "guests": 2,
           "bathrooms": 1,
           "kitchen": false
         },
